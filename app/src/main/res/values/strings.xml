@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CAS</string>
+    <string name="ma_btn_preview_title">Show</string>
+    <string name="ma_iv_preview_content_description">bitmap image</string>
 </resources>
